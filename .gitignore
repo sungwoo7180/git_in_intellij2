@@ -29,7 +29,7 @@ bin/
 .DS_Store
 
 ### Project Files Git ignore ###
-#misc.xml
-#modules.xml
 .idea/
 git_in_intellij2.iml
+#misc.xml
+#modules.xml
